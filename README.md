@@ -7,6 +7,6 @@ This model allows for a 2s 21700 battery back to fit securely into the HDZero Go
 
 Use [OpenSCAD](https://openscad.org/) to reder the .scad file and export to STL for your slicer.
 
-I printed in TPU with 15% infil and no supports.
+I printed in TPU with 15% infill and no supports.
 
 I am still considering some changes. Primarily in regard to lead exit.
